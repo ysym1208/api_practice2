@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "api-practice2",
+			"path": "../../.."
+		},
+		{
+			"name": "codellama",
+			"path": "../../../../llama_opensource/codellama"
+		}
+	],
+  "settings": {}
+}
